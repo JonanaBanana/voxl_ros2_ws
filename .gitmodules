@@ -13,3 +13,6 @@
 [submodule "AerialTN"]
 	path = AerialTN
 	url = https://github.com/JonanaBanana/AerialTN.git
+[submodule "voxl_ircam_driver"]
+	path = voxl_ircam_driver
+	url = https://github.com/BjarkeHJ/voxl_ircam_driver.git
