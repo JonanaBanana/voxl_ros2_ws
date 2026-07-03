@@ -16,3 +16,6 @@
 [submodule "voxl_ircam_driver"]
 	path = voxl_ircam_driver
 	url = https://github.com/BjarkeHJ/voxl_ircam_driver.git
+[submodule "lightwarelidar2-sf30d"]
+	path = lightwarelidar2-sf30d
+	url = https://github.com/JonanaBanana/lightwarelidar2-sf30d.git
